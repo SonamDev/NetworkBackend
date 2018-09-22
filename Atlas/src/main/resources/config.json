@@ -1,0 +1,20 @@
+{
+
+  "_atlas_version_":"4.0",
+
+  "server_types":
+  [
+    {
+      "base_name":"SKYWARS",
+      "game_config":
+      {
+        "":""
+      },
+      "lobby_config":
+      {
+        "name_pattern":"skywars%"
+      }
+    }
+  ]
+
+}

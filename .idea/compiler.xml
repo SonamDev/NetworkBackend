@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Atlas" />
+        <module name="AtlasClient" />
+        <module name="Commons" />
+        <module name="Hercules" />
+        <module name="HerculesLoader" />
+        <module name="Hook" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Atlas" target="1.8" />
+      <module name="AtlasClient" target="1.8" />
+      <module name="Commons" target="1.8" />
+      <module name="GameManager" target="1.5" />
+      <module name="Hercules" target="1.8" />
+      <module name="HerculesLoader" target="1.8" />
+      <module name="Hook" target="1.8" />
+      <module name="NetworkBackend" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

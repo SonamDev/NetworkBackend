@@ -1,0 +1,25 @@
+{
+
+  "name":"_UNKNOWN",
+
+  //Atlas Configuration
+
+  "atlas_host":"localhost",
+  "atlas_port":35565,
+
+  //Mongo Configuration
+
+  "mongo_host":"host",
+  "mongo_port":27017,
+  "mongo_uses_password":false,
+  "mongo_database":"admin",
+  "mongo_username":"admin",
+  "mongo_password":"password",
+
+  //Supported Minecraft Protocol Numbers
+
+  "versions":
+          [
+            335,338,340
+          ]
+}

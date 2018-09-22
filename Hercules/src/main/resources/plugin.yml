@@ -1,0 +1,5 @@
+main: net.grian.hercules.Hercules
+name: Hercules
+version: 3.0
+description: Hercules is a Bungee implementation of the Atlas Client
+author: Sonam

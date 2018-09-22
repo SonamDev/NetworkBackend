@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atlas/Atlas.iml" filepath="$PROJECT_DIR$/Atlas/Atlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtlasClient/AtlasClient.iml" filepath="$PROJECT_DIR$/AtlasClient/AtlasClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commons/Commons.iml" filepath="$PROJECT_DIR$/Commons/Commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hercules/Hercules.iml" filepath="$PROJECT_DIR$/Hercules/Hercules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerculesLoader/HerculesLoader.iml" filepath="$PROJECT_DIR$/HerculesLoader/HerculesLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hook/Hook.iml" filepath="$PROJECT_DIR$/Hook/Hook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkBackend.iml" filepath="$PROJECT_DIR$/NetworkBackend.iml" />
+    </modules>
+  </component>
+</project>

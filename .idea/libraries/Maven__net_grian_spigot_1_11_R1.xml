@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.grian:spigot:1.11-R1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/grian/spigot/1.11-R1/spigot-1.11-R1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/grian/spigot/1.11-R1/spigot-1.11-R1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/grian/spigot/1.11-R1/spigot-1.11-R1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
